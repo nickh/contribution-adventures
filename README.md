@@ -8,4 +8,5 @@ Let's gooooooooo!!!!
 4. 🔲 Clear contribution cache
 5. ✅ Test graduated summary feature in review-lab
 6. ✅ Test graduated summary feature in proxima
-7. 🔲 Test graduated summary feature in prod
+7. ✅ Test graduated summary feature in prod/dotcom
+8. 🔲 Test `:skip_commit_contributions` feature in prod
