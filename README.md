@@ -10,3 +10,4 @@ Let's gooooooooo!!!!
 6. ✅ Test graduated summary feature in proxima
 7. ✅ Test graduated summary feature in prod/dotcom
 8. 🔲 Test `:skip_commit_contributions` feature in prod
+9. 🔲 Test index column updates in review-lab
